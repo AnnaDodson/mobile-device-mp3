@@ -1,12 +1,10 @@
 <resources>
-    <string name="app_name">MyMusicPlayer</string>
-    <string name="Play">Play</string>
+    <string name="app_name">My Music Player</string>
+    <string name="PlayPause">PlayPause</string>
+    <string name="SkipForward">SkipForward</string>
+    <string name="SkipBackward">SkipBackward</string>
     <string name="Stop">Stop</string>
-    <string name="ShowList">Artists and Songs</string>
-    <string name="Pause">Pause</string>
-    <string name="MediaList">MediaList</string>
-    <string name="SkipForward">SkipF</string>
-    <string name="SkipBackward">SkipB</string>
-    <string name="albumArt">albumArt</string>
-    <string name="PlayPause">Play/Pause</string>
+    <string name="ShowList">ShowList</string>
+    <string name="albumArt">AlbumArt</string>
+    <string name="AlbumArt">AlbumArt</string>
 </resources>
